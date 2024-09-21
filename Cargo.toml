@@ -1,0 +1,9 @@
+[package]
+name = "atomic_mut"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A crate that facilitates atomic operations on arbitrary structs."
+repository = "https://github.com/YouZiSoftware/AtomicMut"
+homepage = "https://github.com/YouZiSoftware/AtomicMut"
+keywords = ["Atomic"]
